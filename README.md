@@ -1,0 +1,1 @@
+# rails-layouts-and-templates-lab-seiji-test-batch-001
